@@ -179,3 +179,16 @@ input[type="checkbox"]{
     }
 }
 
+.footer{
+   text-align: center;
+   padding: 10px 0;
+   margin-top: 50px;
+   justify-content: bottom;
+}
+
+.footer{
+   color: #bdbdbd;
+   margin: 0;
+   font-size: 16px;
+   padding: 7px;
+}
